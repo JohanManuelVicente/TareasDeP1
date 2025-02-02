@@ -1,4 +1,4 @@
-﻿////Johan Manuel Vicente 2024-1260
+﻿//Johan Manuel Vicente 2024-1260
 
 //var number = 7;
 //number++;
@@ -22,12 +22,28 @@
 //number%= 2;
 //Console.WriteLine(number);
 
-float number = 10152466.25F;
 
-byte BYTE = 5;
 
-var numberByte = (byte)number;
+//Johan Manuel Vicente 2024-1260
+float number = 10152466.25f;
+
+byte numberByte = (byte)(5 + number);
+
+Console.WriteLine(number);
 
 Console.WriteLine(numberByte);
 
 Console.ReadKey();
+
+
+
+////Johan Manuel Vicente 2024-1260
+//float number = 10152466.25F;
+
+//byte BYTE = 5;
+
+//var numberByte = (byte)number;
+
+//Console.WriteLine(numberByte);
+
+//Console.ReadKey();
