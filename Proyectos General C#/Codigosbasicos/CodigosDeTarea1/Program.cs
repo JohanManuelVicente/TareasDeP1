@@ -24,16 +24,16 @@
 
 
 
-//Johan Manuel Vicente 2024-1260
-float number = 10152466.25f;
+////Johan Manuel Vicente 2024-1260
+//float number = 10152466.25f;
 
-byte numberByte = (byte)(5 + number);
+//byte numberByte = (byte)(5 + number);
 
-Console.WriteLine(number);
+//Console.WriteLine(number);
 
-Console.WriteLine(numberByte);
+//Console.WriteLine(numberByte);
 
-Console.ReadKey();
+//Console.ReadKey();
 
 
 
@@ -47,3 +47,9 @@ Console.ReadKey();
 //Console.WriteLine(numberByte);
 
 //Console.ReadKey();
+
+
+//Johan Manuel Vicente 2024-1260
+DateTime ahora = DateTime.Now;
+Console.WriteLine("Fecha y hora actual: " + ahora);
+Console.ReadKey();
