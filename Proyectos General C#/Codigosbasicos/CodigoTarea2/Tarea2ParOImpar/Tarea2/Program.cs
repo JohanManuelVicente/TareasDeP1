@@ -5,7 +5,6 @@ string input = Console.ReadLine(); // Leer la entrada como string
 int number;
 
 // convertir la entrada string a un número entero
-// convertir la entrada string a un número entero
 if (int.TryParse(input, out number))
 {
     // Verificar si el número es par o impar
