@@ -1,5 +1,6 @@
 ﻿// Johan Manuel Vicente B      2024-1260
 
+
 Console.WriteLine("Bienvenido a mi lista de Contactes");
 
 //names, lastnames, addresses, telephones, emails, ages, bestfriend
